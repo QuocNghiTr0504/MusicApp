@@ -45,22 +45,10 @@
          image: "https://i1.sndcdn.com/artworks-PXjy5sywELqCfvhr-LVK2bA-t500x500.jpg"
      }, {
 
-         name: "Suie and tie",
-         singer: "MCK",
-         path: "../music/song1.mp3",
-         image: "https://baochauelec.com/cdn/images/tin-tuc/loi-bai-hat-suit-tie-mck-x-hoang-ton-ban-chuan.jpg"
-     }, {
-
          name: "Lời tâm sự số 2",
          singer: "Mike",
          path: "music/tamsuso2.mp3",
          image: "https://i.ytimg.com/vi/Mi5konn17y8/maxresdefault.jpg"
-     }, {
-
-         name: "Lời tâm sự số 3",
-         singer: "Mike",
-         path: "../music/tamsuso3.mp3",
-         image: "https://i.ytimg.com/vi/ReSHW-KEuuU/maxresdefault.jpg"
      }, {
 
          name: "Sofar",
